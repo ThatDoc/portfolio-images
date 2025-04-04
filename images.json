@@ -1,19 +1,16 @@
-[
-  {
-    "art": [
-      {
-        "path": "art/hardy boys.png",
-        "title": "Hardy Boys",
-        "desc": "Disco Elysium reference?"
-      }
-    ],
-    
-    "gamedev": [
-      {
-        "path": "gamedev/cute-joy-division.png",
-        "title": "Joy Division",
-        "desc": "cute"
-      }
-    ]
-  }
-]
+{
+  "art": [
+    {
+      "path": "art/hardy boys.png",
+      "title": "Hardy Boys",
+      "desc": "Disco Elysium reference?"
+    }
+  ],
+  "gamedev": [
+    {
+      "path": "gamedev/cute-joy-division.png",
+      "title": "Joy Division",
+      "desc": "cute"
+    }
+  ]
+}
