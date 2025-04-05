@@ -1,6 +1,7 @@
 {
   "art": [
     {
+      "type": "image",
       "path": "art/hardy boys.png",
       "title": "Hardy Boys",
       "desc": "Disco Elysium reference?"
@@ -8,9 +9,16 @@
   ],
   "gamedev": [
     {
+      "type": "image",
       "path": "gamedev/cute-joy-division.png",
       "title": "Joy Division",
       "desc": "cute"
+    },
+    {
+      "type": "video",
+      "id": "WkS26IsU-pU",
+      "title": "Would you eat a fish?",
+      "desc": "If it had arms and legs? If it jumped around?"
     }
   ]
 }
