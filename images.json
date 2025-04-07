@@ -28,7 +28,7 @@
   "gamedev": [
     {
       "type": "image",
-      "path": "gamedev/game-cover-art.png",
+      "path": "gamedev/game-coverart-tiny.png",
       "title": "Hellwaste",
       "desc": "My solo game project - a bullet-hell, 2D, pixelart, exploration shooter where your choices matter. Developed in Godot Engine and covered on my YouTube channel. Everything from code and design to art and effects (except sound effects) was made by me."
     },
