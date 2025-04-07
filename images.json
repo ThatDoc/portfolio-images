@@ -2,23 +2,53 @@
   "art": [
     {
       "type": "image",
-      "path": "art/hardy boys.png",
-      "title": "Hardy Boys",
-      "desc": "Disco Elysium reference?"
+      "path": "art/portrait-1.png",
+      "title": "Portrait 1",
+      "desc": "A portrait from my collection on works inspired by Disco Elysium"
+    },
+    {
+      "type": "image",
+      "path": "art/portrait-2.png",
+      "title": "Portrait 2",
+      "desc": ""
+    },
+    {
+      "type": "image",
+      "path": "art/portrait-3.png",
+      "title": "Portrait 3",
+      "desc": ""
+    },
+    {
+      "type": "image",
+      "path": "art/portrait-4.png",
+      "title": "Portrait 4",
+      "desc": ""
     }
   ],
   "gamedev": [
     {
       "type": "image",
-      "path": "gamedev/cute-joy-division.png",
-      "title": "Joy Division",
-      "desc": "cute"
+      "path": "gamedev/game-cover-art.png",
+      "title": "Hellwaste",
+      "desc": "My solo game project - a bullet-hell, 2D, pixelart, exploration shooter where your choices matter. Developed in Godot Engine and covered on my YouTube channel. Everything from code and design to art and effects (except sound effects) was made by me."
     },
     {
       "type": "video",
-      "id": "WkS26IsU-pU",
-      "title": "Would you eat a fish?",
-      "desc": "If it had arms and legs? If it jumped around?"
+      "id": "1KQ8WoPawGs",
+      "title": "My most recent devlog of Hellwaste",
+      "desc": "Every video is its own little project."
+    },
+    {
+      "type": "image",
+      "path": "gamedev/babushcats-banner.png",
+      "title": "BabushCats",
+      "desc": "Our current project at Deez Games. I'm in charge of art, visual effects and coding."
+    },
+    {
+      "type": "video",
+      "id": "lVLLPukMT-o",
+      "title": "BabushCats trailer",
+      "desc": ""
     }
   ]
 }
