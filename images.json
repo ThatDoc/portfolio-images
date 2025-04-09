@@ -23,6 +23,24 @@
       "path": "art/portrait-4.png",
       "title": "Portrait 4",
       "desc": ""
+    },
+    {
+      "type": "image",
+      "path": "art/fishbowl-guy.png",
+      "title": "A Goofy Cartoon Character",
+      "desc": "I also like drawing cartoon characters. This one's fishy."
+    },
+    {
+      "type": "image",
+      "path": "art/cartoon-fox-salesman-babushcats-web.png",
+      "title": "Salesman from BabushCats",
+      "desc": "Concept/promo art for a character in BabushCats - a game I'm helping to develop."
+    },
+    {
+      "type": "image",
+      "path": "art/donk.png",
+      "title": "An Adventurer",
+      "desc": ""
     }
   ],
   "gamedev": [
