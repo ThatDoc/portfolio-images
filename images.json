@@ -57,6 +57,42 @@
       "desc": "Every video is its own little project."
     },
     {
+      "type": "video",
+      "id": "ias-kEWTJYc",
+      "title": "Combat Gameplay",
+      "desc": "Player can use weapons, abilities and the environment to fight enemies."
+    },
+    {
+      "type": "video",
+      "id": "K1Y9bkHrJg0",
+      "title": "Boss Fight 1",
+      "desc": "Slow tanky boss featuring chain-themed attacks"
+    },
+    {
+      "type": "video",
+      "id": "K7ORAl1u5KE",
+      "title": "Boss Fight 2",
+      "desc": "An optional secret harder boss. It's only hinted at throughout the game world."
+    },
+    {
+      "type": "video",
+      "id": "JgPbz4hxZNM",
+      "title": "Item System",
+      "desc": "Player can collect items used as special abilities or for quests."
+    },
+    {
+      "type": "video",
+      "id": "kzPH6yC-Aus",
+      "title": "Explosion Effect",
+      "desc": ""
+    },
+    {
+      "type": "video",
+      "id": "ihzwxxwU0hQ",
+      "title": "Scene Transition Effect",
+      "desc": ""
+    },
+    {
       "type": "image",
       "path": "gamedev/babushcats-banner.png",
       "title": "BabushCats",
