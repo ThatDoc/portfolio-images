@@ -4,7 +4,7 @@
       "type": "image",
       "path": "art/portrait-1.png",
       "title": "Portrait 1",
-      "desc": "A portrait from my collection on works inspired by Disco Elysium"
+      "desc": "A portrait from my collection on works inspired by Disco Elysium."
     },
     {
       "type": "image",
@@ -66,7 +66,7 @@
       "type": "video",
       "id": "K1Y9bkHrJg0",
       "title": "Boss Fight 1",
-      "desc": "Slow tanky boss featuring chain-themed attacks"
+      "desc": "Slow tanky boss featuring chain-themed attacks."
     },
     {
       "type": "video",
@@ -103,6 +103,30 @@
       "id": "lVLLPukMT-o",
       "title": "BabushCats trailer",
       "desc": ""
+    },
+    {
+      "type": "video",
+      "id": "oH3sedTJVbQ",
+      "title": "Lightning Chain Effect",
+      "desc": ""
+    },
+    {
+      "type": "video",
+      "id": "Bhwi_nqwjGs",
+      "title": "Minigame UI Animations and Effects",
+      "desc": "Examples of me making the game's UI feel good and more lively."
+    },
+    {
+      "type": "video",
+      "id": "cDj-7quq_tA",
+      "title": "Death Animation",
+      "desc": "Or rather get-sucked-out-of-your-cat's-dream animation. Made with Unity Shader Graph."
+    },
+    {
+      "type": "video",
+      "id": "JdhNf4KcM9Y",
+      "title": "Boss Attack Effects",
+      "desc": "I do vibe with the fish getting cartoonishly stuck in the ground."
     }
   ]
 }
