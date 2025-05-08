@@ -46,84 +46,98 @@
   "gamedev": [
     {
       "type": "image",
+      "project": "hellwaste",
       "path": "gamedev/game-coverart-tiny.png",
       "title": "Hellwaste",
       "desc": "My solo game project - a bullet-hell, 2D, pixelart, exploration shooter where your choices matter. Developed in Godot Engine and covered on my YouTube channel. Everything from code and design to art and effects (except sound effects) was made by me."
     },
     {
       "type": "video",
+      "project": "hellwaste",
       "id": "1KQ8WoPawGs",
       "title": "My most recent devlog of Hellwaste",
       "desc": "Every video is its own little project."
     },
     {
       "type": "video",
+      "project": "hellwaste",
       "id": "ias-kEWTJYc",
       "title": "Combat Gameplay",
       "desc": "Player can use weapons, abilities and the environment to fight enemies."
     },
     {
       "type": "video",
+      "project": "hellwaste",
       "id": "K1Y9bkHrJg0",
       "title": "Boss Fight 1",
       "desc": "Slow tanky boss featuring chain-themed attacks."
     },
     {
       "type": "video",
+      "project": "hellwaste",
       "id": "K7ORAl1u5KE",
       "title": "Boss Fight 2",
       "desc": "An optional secret harder boss. It's only hinted at throughout the game world."
     },
     {
       "type": "video",
+      "project": "hellwaste",
       "id": "JgPbz4hxZNM",
       "title": "Item System",
       "desc": "Player can collect items used as special abilities or for quests."
     },
     {
       "type": "video",
+      "project": "hellwaste",
       "id": "kzPH6yC-Aus",
       "title": "Explosion Effect",
       "desc": ""
     },
     {
       "type": "video",
+      "project": "hellwaste",
       "id": "ihzwxxwU0hQ",
       "title": "Scene Transition Effect",
       "desc": ""
     },
     {
       "type": "image",
+      "project": "babushcats",
       "path": "gamedev/babushcats-banner.png",
       "title": "BabushCats",
       "desc": "Our current project at Deez Games. I'm in charge of art, visual effects and coding."
     },
     {
       "type": "video",
+      "project": "babushcats",
       "id": "lVLLPukMT-o",
       "title": "BabushCats trailer",
       "desc": ""
     },
     {
       "type": "video",
+      "project": "babushcats",
       "id": "oH3sedTJVbQ",
       "title": "Lightning Chain Effect",
       "desc": ""
     },
     {
       "type": "video",
+      "project": "babushcats",
       "id": "Bhwi_nqwjGs",
       "title": "Minigame UI Animations and Effects",
       "desc": "Examples of me making the game's UI feel good and more lively."
     },
     {
       "type": "video",
+      "project": "babushcats",
       "id": "cDj-7quq_tA",
       "title": "Death Animation",
       "desc": "Or rather get-sucked-out-of-your-cat's-dream animation. Made with Unity Shader Graph."
     },
     {
       "type": "video",
+      "project": "babushcats",
       "id": "JdhNf4KcM9Y",
       "title": "Boss Attack Effects",
       "desc": "I do vibe with the fish getting cartoonishly stuck in the ground."
