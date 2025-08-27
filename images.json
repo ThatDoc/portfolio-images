@@ -26,6 +26,12 @@
     },
     {
       "type": "image",
+      "path": "art/oil_portrait_1_web.jpeg",
+      "title": "Portrait 5",
+      "desc": "Oil on canvas, A4"
+    },
+    {
+      "type": "image",
       "path": "art/rose-oracle-crop-web.JPEG",
       "title": "The Rose Oracle",
       "desc": "Pencil on paper A4"
