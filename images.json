@@ -32,9 +32,21 @@
     },
     {
       "type": "image",
+      "path": "art/oil_painting_1.jpeg",
+      "title": "Self-Discovery",
+      "desc": "Oil on canvas, 60cm x 60cm"
+    },
+    {
+      "type": "image",
       "path": "art/rose-oracle-crop-web.JPEG",
       "title": "The Rose Oracle",
-      "desc": "Pencil on paper A4"
+      "desc": "Graphite on paper, A4"
+    },
+    {
+      "type": "image",
+      "path": "art/bio_soldier_web.jpeg",
+      "title": "A Bio-Soldier",
+      "desc": "Graphite on bristol, B2"
     },
     {
       "type": "image",
