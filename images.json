@@ -32,6 +32,12 @@
     },
     {
       "type": "image",
+      "path": "images/art/still-life-crop.jpg",
+      "title": "A Stapler on Tablecloth and a Box",
+      "desc": "Oil on canvas, A4"
+    },
+    {
+      "type": "image",
       "path": "art/oil_painting_1.jpeg",
       "title": "Self-Discovery",
       "desc": "Oil on canvas, 60cm x 60cm"
@@ -47,6 +53,12 @@
       "path": "art/bio_soldier_web.jpeg",
       "title": "A Bio-Soldier",
       "desc": "Graphite on bristol, B2"
+    },
+    {
+      "type": "image",
+      "path": "art/barwy-ochronne-crop.jpg",
+      "title": "Wygodnie",
+      "desc": "Graphite on bristol, B2 - A shot from the movie 'Camouflage'."
     },
     {
       "type": "image",
