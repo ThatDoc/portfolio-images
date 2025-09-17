@@ -177,6 +177,27 @@
       "id": "JdhNf4KcM9Y",
       "title": "Boss Attack Effects",
       "desc": "I do vibe with the fish getting cartoonishly stuck in the ground."
+    },
+    {
+      "type": "image",
+      "project": "other games",
+      "path": "gamedev/deez.png",
+      "title": "Other Games",
+      "desc": "Here are some things I did on other projects at Deez Games."
+    },
+    {
+      "type": "video",
+      "project": "other games",
+      "id": "G8O3P__ZBxE",
+      "title": "Skewered!",
+      "desc": "On this project I was responsible for VFX, animations and a bit of coding. In this mobile game you try to skewer as many ingredients as possible and to get crazy combos!"
+    },
+    {
+      "type": "video",
+      "project": "other games",
+      "id": "RaWr9qyy6bw",
+      "title": "Party Prison",
+      "desc": "Here, once again, I made the VFX and UI animations for such things as the GUI, slapping, running dust, water filling and spilling. The game is a quite goofy party game in which players need to collaborate are compete against each other to escape from prison!"
     }
   ]
 }
