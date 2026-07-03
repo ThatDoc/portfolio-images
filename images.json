@@ -32,24 +32,6 @@
     },
     {
       "type": "image",
-      "path": "art/still-life-crop.jpg",
-      "title": "A Stapler on Tablecloth and a Box",
-      "desc": "Oil on canvas, A4"
-    },
-    {
-      "type": "image",
-      "path": "art/oil_painting_1.jpeg",
-      "title": "Self-Discovery",
-      "desc": "Oil on canvas, 60cm x 60cm"
-    },
-    {
-      "type": "image",
-      "path": "art/rose-oracle-crop-web.JPEG",
-      "title": "The Rose Oracle",
-      "desc": "Graphite on paper, A4"
-    },
-    {
-      "type": "image",
       "path": "art/bio_soldier_web.jpeg",
       "title": "A Bio-Soldier",
       "desc": "Graphite on bristol, B2"
@@ -71,12 +53,6 @@
       "path": "art/cartoon-fox-salesman-babushcats-web.png",
       "title": "Salesman from BabushCats",
       "desc": "Concept/promo art for a character in BabushCats - a game I'm helping to develop."
-    },
-    {
-      "type": "image",
-      "path": "art/donk.png",
-      "title": "An Adventurer",
-      "desc": ""
     }
   ],
   "gamedev": [
