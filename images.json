@@ -26,6 +26,24 @@
     },
     {
       "type": "image",
+      "path": "art/waiting_for_godot_prev.jpg",
+      "title": "Book Cover Series - Waiting for Godot",
+      "desc": "I made a series of book covers for my university project. The aim was to create three book covers that would be visually cohesive and minimalistic, yet with something interesting going on. Of course, I had to start with my favourite book."
+    },
+    {
+      "type": "image",
+      "path": "art/metamorphosis_prev.jpg",
+      "title": "Book Cover Series - Metamorphosis",
+      "desc": "As the books are quite known, I decided to go for the title being more of a visual element rather than an identifier. The illustrations themselves hint at which books they represent."
+    },
+    {
+      "type": "image",
+      "path": "art/the_trial_prev.jpg",
+      "title": "Book Cover Series - The Trial",
+      "desc": "I tried to include some dynamic elements in the designs to make them more eye-catching. I like here how the title is acting as strings that are controllig the character, as if he was a puppet."
+    },
+    {
+      "type": "image",
       "path": "art/oil_portrait_1_web.jpeg",
       "title": "Portrait 5",
       "desc": "Oil on canvas, A4"
